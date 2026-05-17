@@ -125,6 +125,10 @@ Feature squeezing (Xu et al., 2018) reduces the input color space by quantizing 
 
 ---
 
+## Author
+Vedanth D 
+
+
 ## Tech Stack
 
 - **Frontend**: Next.js 16, React 19, Tailwind CSS 4
